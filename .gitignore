@@ -1,0 +1,4 @@
+#Secrets
+__pycache__
+credentials.json
+config.py
